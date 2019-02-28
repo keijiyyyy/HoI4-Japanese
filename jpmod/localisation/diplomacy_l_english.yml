@@ -504,7 +504,7 @@
  DR_US_PUPPET:1 "§Y$US|U$§! は §Y$THEM$§! の傀儡国家です: "
  DR_NOT_READY:1 "§Y$THEM|U$§! は §Y$ENEMY$§!と戦争する準備ができていない: "
  DR_TOO_DANGEROUS:1 "§Y$THEM|U$§!は敵に対して危険な国境を持っている"
- RULER_OF:0 "@$TAG$$COUNTRY|Y$ の盟主"
+ RULER_OF:0 "@$TAG$$COUNTRY|Y$ の指導者"
  DR_BORDERS_ENEMY:1 "$US|U$ は $ENEMY$ と国境を接している: "
  DR_HAS_CORE_ON_ANY_STATE:1 "$COUNTRY|UY$は少なくとも目標とされた州の1つは中核州です: "
  DR_HAS_CLAIM_ON_ANY_STATE:1 "$COUNTRY|UY$は少なくとも目標とされた州の1つに請求権を持ちます: "
