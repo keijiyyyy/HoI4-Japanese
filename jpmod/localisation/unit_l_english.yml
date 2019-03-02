@@ -32,12 +32,8 @@
  ATTRITION_TECH_FACTOR:0 "研究によって: $VALUE|-0%$"
  ATTRITION_TRAINING:0 "訓練によって: $VALUE|-0%$"
  ATTRITION_SUPPLY:0 " - 物資不足によって: $ATT|-0%$"
- ATTRITION_SINGLE_UNIT:0 "§Rこの部隊は消耗による影響を受けています！ "
-  現在の消耗: $VALUE|Y0%$§!
-  現在の消耗: $VALUE|Y0%$§! ""
- ATTRITION_SOME_UNITS:0 "§R$COUNT|Y$個の部隊が消耗による影響を受けています！ "
-  現在の最大消耗: $MAX|Y0%$§!
-  現在の最大消耗: $MAX|Y0%$§! "無駄な半角スペースを消去、 :直後に半角スペースを追加、 ！ の追加、 特殊記号の修正"
+ ATTRITION_SINGLE_UNIT:0 "§Rこの部隊は消耗による影響を受けています！\n 現在の消耗: $VALUE|Y0%$§!"
+ ATTRITION_SOME_UNITS:0 "§R$COUNT|Y$個の部隊が消耗による影響を受けています！\n 現在の最大消耗: $MAX|Y0%$§!"
  ATTRITION_MULMOD_BY:0 " $MOD|Y$倍 消耗拡大要因:\n$WHY$"
  DIG_IN_UNIT:0 "この部隊は§H塹壕§!にいます。 最大$MAX|0%Y$の内、 $DIG|0+%$の防衛戦闘ボーナスを受けとります。 "
  DIG_IN_AVG:0 "これらの部隊は§H塹壕§!にいます。 防衛戦闘の平均は$DIG|0+%$です。 "
