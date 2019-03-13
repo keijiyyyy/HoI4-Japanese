@@ -1,7 +1,7 @@
 ﻿l_english:
  TACTIC_ATTACKER:0 " (攻撃側)"
  TACTIC_DEFENDER:0 " (防御側)"
- TACTIC_DESC:0 "各々の司令官が戦闘時に選択する戦術は、 戦闘の展開に影響を与えます。 より高いスキルを持つ司令官や、 より高度な偵察は、 相手側の戦術を無効化する戦術を選択する可能性が高くなります。 "
+ TACTIC_DESC:0 "各々の司令官が戦闘時に採る戦術は、 戦闘の展開に影響を与える。 より高いスキルを持つ司令官や、 より高度な偵察は、 相手側の戦術を無効化する戦術を選択する可能性が高くなる。 "
  tactic_basic_attack:0 "攻撃"
  tactic_basic_defend:0 "防御"
  tactic_counterattack:0 "反撃"
