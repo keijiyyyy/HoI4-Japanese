@@ -93,6 +93,7 @@
  SWITCH_STRATEGIC_REDEPLOYMENT_MODE_OFF:0 "戦略的再配置の命令は§ROFF§!です。 "
  SWITCH_STRATEGIC_REDEPLOYMENT_MODE_ON:0 "戦略的再配置の命令は§GON§!です。 "
  SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED:0 "戦略的再配置は部隊をより高速で移動させるために自国の§Yインフラ§!を利用します。 \n移動中のユニットは$ORG|R%$のペナルティを指揮統制率に受けるでしょう。 \nユニットの速度は地域の§Yインフラ§!に応じて、 基本値の$BASE|1Y$ km/hに最高で$INFR|=1G$ km/hの増速を加えた値に設定されます。 "
+ SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED_2:0 "選択した軍の移動命令の戦略的再配置を切り替えるには£ctrl + £b を使用する。 "
  FORCES_COMPARISON_HEADER:0 "§H戦力比:§! "
  FORCES_COMPARISON_EQUAL:0 "おおよそ§Y同等§!\n"
  FORCES_COMPARISON_STRONGER:0 "我々が§G優勢です§!\n"

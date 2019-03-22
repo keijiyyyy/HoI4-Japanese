@@ -22,7 +22,7 @@ x:\マイドキュメントの位置\Paradox Interactive\Hearts of Iron IV\mod
    Japanese Language modワークショップページ  
    https://steamcommunity.com/sharedfiles/filedetails/?id=699539183  
 ・翻訳内容については  
-    5ch PCゲーム板【HoI4】Hearts of iron 4 翻訳作業用スレ　第3言語  
+    5ch PCゲーム板【HoI4】Hearts of iron 4 翻訳作業用スレ　第4言語  
    こちらに直接どうぞ  
 ・その他FAQ  
 　上記ワークショップページFAQがありますのでそちらも併せてご確認ください。  
