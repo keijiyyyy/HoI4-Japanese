@@ -136,7 +136,7 @@
  CONFIRMUNASSIGNTEXT:0 "本当に$NAME|H$を解除してよろしいですか? "
  CONFIRDISBANDGROUPTEXT:2 "§Y師団§!を持たない§G軍§!は全て自動的に§R削除され§!、 命令はすべて§R抹消されます§!！ "
  REASSIGN_FULL_ORDERS_GROUP_HEADER:1 "軍の再割り当て"
- REASSIGN_FULL_ORDERS_GROUP_TEXT:2 "§Y師団§!を含まない全ての§Y軍§!は自動的に§R削除§!され、 命令は全て§R末梢§!されます！ \n\n他の§Y軍§!に全てのユニットを§Y再割り当て§!しますか? "
+ REASSIGN_FULL_ORDERS_GROUP_TEXT:2 "§Y師団§!を含まない全ての§Y軍§!は自動的に§R削除§!され、 命令は全て§R抹消§!されます！ \n\n他の§Y軍§!に全てのユニットを§Y再割り当て§!しますか? "
  REASSIGN_ALL_SHIPS_HEADER:0 "任務部隊の再割り当て"
  REASSIGN_ALL_SHIPS_TEXT:0 "本当に$TASKFORCES|H$の全ての艦船を$PARENT|H$に統合し、 空の任務部隊を§R解体§!してよろしいですか? "
  REASSIGN_ALL_TASKFORCES_HEADER:0 "艦隊の再割り当て"
