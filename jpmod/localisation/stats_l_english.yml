@@ -200,7 +200,7 @@
  STAT_COMMON_MAXIMUM_SPEED_VALUE:0 "$VALUE|*H1$ km/h"
  STAT_COMMON_MAXIMUM_SPEED_DIFF:0 " $VALUE|=+1$ km/h"
  STAT_NAVY_MAXIMUM_SPEED:0 "最高速度: "
- STAT_NAVY_MAXIMUM_SPEED_DESC:0 "高速な艦艇ほど追跡から逃げ切るのが容易である。 また艦隊が集中した際、 ポジションへ高速に移動できるのと同様に、 理想的な砲撃距離へも高速に接近できる。 "
+ STAT_NAVY_MAXIMUM_SPEED_DESC:1 "高速な艦艇ほど追尾からの離脱が容易である。 また、 敵攻撃を受け難く、 敵を発見時に触接を容易にし、 追尾が可能で、 戦闘圏外に素速く移動可能である。 "
  STAT_NAVY_MAXIMUM_SPEED_VALUE:0 "$VALUE|H1$ kn"
  STAT_NAVY_MAXIMUM_SPEED_DIFF:0 " $VALUE|=+1$"
  STAT_NAVY_RANGE:0 "行動範囲: "

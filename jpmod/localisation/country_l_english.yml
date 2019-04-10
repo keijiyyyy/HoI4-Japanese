@@ -6,7 +6,7 @@
  STABILITY_DESC:0 "安定度は現政府に対する国民の支持を表す。 高い安定度は政治的変化をより容易にし、 経済の円滑進行を助ける。 "
  WAR_SUPPORT_DESC:0 "戦争協力度は国民が戦争を最後まで遂行しようとする意欲を表す。 多くの法律を制定し、 国家が戦争に効果的に突き進むための備えをするには、 高い戦争協力度が必要である。 "
  STABILITY_WAR_FACTOR:0 "戦時: $VALUE|+2%H$"
- STABILITY_POPULARITY_FACTOR:0 "与党の支持率: $VALUE|=+2%H$"
+ STABILITY_POPULARITY_FACTOR:0 "与党の支持率: $VALUE|=+2%$"
  STABILITY_EFFECT_TITLE:0 "\n§H現在の安定度による影響:§!\n"
  WAR_SUPPORT_EFFECT_TITLE:0 "\n§H現在の戦争協力度による影響:§!\n"
  WAR_SUPPORT_AT_OFFENSIVE_WAR:0 "侵略戦争: $VALUE|+=2%H$"

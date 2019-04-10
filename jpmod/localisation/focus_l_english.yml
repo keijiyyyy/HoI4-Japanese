@@ -1962,6 +1962,7 @@
  RAJ_raf_funding_desc:0 "インド王立空軍はイギリスからより多く資金と資産を受け取る予定である。 "
  RAJ_navy_funding:0 "海軍の創設"
  RAJ_navy_funding_effect:0 "技術を開発済みであれば、 §Y2隻の軽巡洋艦§!が海軍に加わる。 \n"
+ RAJ_navy_funding_effect_mtg:0 "同型の§Y2隻の軽巡洋艦§!が海軍に加わる。 \n"
  RAJ_navy_funding_desc:0 "インド王立海軍はイギリスからより多く資金と資産を受け取る予定である。 "
  RAJ_british_army_support:0 "イギリス陸軍による支援"
  RAJ_british_army_support_desc:0 "イギリス陸軍は200年にわたる駐留によってインドを熟知している。 彼らは住民と国土に精通しているし、 またインド兵がその母国において戦うための訓練を支援することができるだろう。 "
