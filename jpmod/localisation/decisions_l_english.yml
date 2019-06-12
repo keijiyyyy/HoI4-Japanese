@@ -10,3 +10,4 @@
  TAKE_DECISION_HEADER:0 "§Hディシジョンを実行§!\n\n"
  DECISION_COST_DESC:0 "このディシジョンを実行するには£pol_power $VAL|H0$が必要です"
  DECISION_COST_NOT_ENOUGH:0 "このディシジョンを実行するには£pol_power $VAL|HR0$が必要です"
+ ON_MAP_DECISION_NAME_DEFAULT:0 "地図上でディシジョンを見つけて下さい。 "
